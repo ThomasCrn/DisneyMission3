@@ -1,0 +1,31 @@
+
+body {
+    background-color: #111111;
+}
+
+.img-fluid {
+  width: 500px;
+  top: 600px;
+  margin-top: 30px;
+}
+
+.h1, h1 {
+    font-size: 2.5rem;
+    color: white;
+    margin-top: 10px;
+    position: middle;
+    vertical-align: middle;
+}
+
+.h2, h2 {
+    font-size: 1.5rem;
+    color: white;
+    margin-top: 10px;
+    position: middle;
+    vertical-align: middle;
+}
+
+.img {
+    width: 500px;
+    height: 300px;
+}

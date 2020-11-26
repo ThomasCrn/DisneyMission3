@@ -1,0 +1,21 @@
+img-fluid d-block float-left {
+  width: auto;
+  height: auto;
+}
+
+.col-md-12 {
+  margin-top: 10px;
+  color: black;
+}
+
+label {
+  color: white;
+}
+
+p {
+  color: black;
+}
+
+p3 {
+  color: white;
+}
